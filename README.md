@@ -123,3 +123,5 @@ Imbalanced dataset for rare disease classes remains challenging despite class ba
 Possible improvements include more advanced augmentation, ensemble models, or additional data sources.
 
 Clinical validation required before deployment in real-world settings.
+
+Linkdein -https://www.linkedin.com/in/rugved-bairagi-7882b5285/
